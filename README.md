@@ -19,7 +19,7 @@ tags:
 
 ## Installing
 
-- Go to [Obsidian](obsidian.md) and get the application for whatever platform you choose.
+- Go to [Obsidian](https://obsidian.md) and get the application for whatever platform you choose.
 - Follow the instructions to install the application on your platform
 
 
