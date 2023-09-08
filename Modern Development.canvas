@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"Modern Development\n","id":"95f4809e61df495c","x":-125,"y":-30,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Web Development\n","id":"65c48185ca2d385f","x":219,"y":-348,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Application Development","id":"f37ad42302d0c5ae","x":-632,"y":129,"width":250,"height":60,"color":"#54a087"},
+		{"type":"file","file":"MOC JS.canvas","id":"5570a9d9f61caaa8","x":-632,"y":-620,"width":600,"height":400,"color":"#1a5137"},
+		{"id":"3d7d07ae0ee2e3db","x":-95,"y":-1520,"width":535,"height":793,"color":"#058023","type":"file","file":"Notes/Knowledge-base/Laravel- Modern Application Development with PHP.md"},
+		{"id":"e85652ae0ce07317","x":469,"y":-1460,"width":591,"height":960,"color":"#063c0f","type":"file","file":"Notes/Knowledge-base/Blazor-Web Development with CSharp and .Net.md"},
+		{"id":"5c9f03a988aca6b6","x":-1000,"y":424,"width":493,"height":576,"color":"#457e92","type":"file","file":"Notes/Knowledge-base/Kotlin- Java based Multiplatform for Modern Development.md"},
+		{"id":"eb5f0e26ce809133","x":-330,"y":424,"width":549,"height":656,"color":"#51c3d2","type":"file","file":"Notes/Knowledge-base/MAUI-Building Cross Platform Modern Applications with CSharp.md"}
+	],
+	"edges":[
+		{"id":"5f0890685ffd5557","fromNode":"95f4809e61df495c","fromSide":"top","toNode":"65c48185ca2d385f","toSide":"bottom"},
+		{"id":"73d5c53df58d06e4","fromNode":"95f4809e61df495c","fromSide":"bottom","toNode":"f37ad42302d0c5ae","toSide":"top"},
+		{"id":"0bec5b95dc509da6","fromNode":"65c48185ca2d385f","fromSide":"left","toNode":"5570a9d9f61caaa8","toSide":"right"},
+		{"id":"42bd40fb66b55d3e","fromNode":"65c48185ca2d385f","fromSide":"top","toNode":"3d7d07ae0ee2e3db","toSide":"bottom"},
+		{"id":"95b635e40e5bcfeb","fromNode":"65c48185ca2d385f","fromSide":"top","toNode":"e85652ae0ce07317","toSide":"bottom"},
+		{"id":"59dd2b5c0789adc0","fromNode":"f37ad42302d0c5ae","fromSide":"bottom","toNode":"5c9f03a988aca6b6","toSide":"top"},
+		{"id":"eef9c6dbf95b342b","fromNode":"f37ad42302d0c5ae","fromSide":"bottom","toNode":"eb5f0e26ce809133","toSide":"top"}
+	]
+}

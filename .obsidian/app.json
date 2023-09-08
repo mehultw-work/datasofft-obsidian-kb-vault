@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "Notes/Attachments",
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}

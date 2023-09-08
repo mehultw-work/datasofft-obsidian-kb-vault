@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "published": {
+          "options": [
+            "True",
+            "False"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "Templates/Knowledge-base Article.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Notes/Knowledge-base",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "Notes/Knowledge-base",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "cfbb3da3-0cc7-408e-95d8-5b1531b8154f",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "progress"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a7039a4e-8ece-4c05-9fdf-9e1d6c0bd4a9",
+          "name": "Calendar",
+          "type": "board"
+        }
+      ],
+      "id": "9d37e140-c4db-4fb9-9bdc-79f5dd760e55",
+      "name": "KnowledgeBase"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Templates/Inventory-item.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Notes/Inventory",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "edc5d023-7a22-469a-a99a-606a953f3522",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "647b23e1-5196-475f-a78d-8fed26c0ddf6",
+      "name": "Inventory"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "new-note-folder": "Kanban/KanbanCard",
+  "new-note-template": "Templates/kanban-card.md",
+  "tag-colors": [
+    {
+      "tagKey": "",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ]
+}
