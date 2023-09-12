@@ -13,9 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Knowledge-base/NextJS12vNextjs13.md",
+                "file": "Notes/Knowledge-base/How to/Using Quartz to Host KB online on GithubPages.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "681596c788accc8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Idea-note.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -73,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Knowledge-base/NextJS12vNextjs13.md"
+                "file": "Notes/Knowledge-base/How to/Using Quartz to Host KB online on GithubPages.md"
               }
             }
           }
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Knowledge-base/NextJS12vNextjs13.md",
+                "file": "Notes/Knowledge-base/How to/Using Quartz to Host KB online on GithubPages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Knowledge-base/NextJS12vNextjs13.md",
+                "file": "Notes/Knowledge-base/How to/Using Quartz to Host KB online on GithubPages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,20 +219,37 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d1301b54446c9e6b",
+  "active": "27175617bb7351d4",
   "lastOpenFiles": [
+    "Templates/Idea-note.md",
+    "Templates/Inventory-item.md",
+    "Templates/kanban-card.md",
+    "Templates/Knowledge-base Article.md",
+    "Templates/MOC.md",
+    "Notes/Knowledge-base/How to/Stoof.md",
+    "Notes/Knowledge-base/Css.md",
+    "Notes/Knowledge-base/How to/Untitled.md",
+    "Notes/Knowledge-base/How to/Using Quartz to Host KB online on GithubPages.md",
     "README.md",
-    "readme.md",
-    "readme.md.md",
-    "Notes/Knowledge-base/NextJs vs React.md",
-    "Notes/Knowledge-base/NextJS12vNextjs13.md",
-    "Notes/readme.md.md",
-    "MOC JS.canvas",
+    "Notes/Knowledge-base/SC.md",
+    "Notes/Knowledge-base/Dss.md",
+    "Kanban/KanbanCard/Excalidraw Rendering #in-process.md",
     "Notes/Inventory/Prospective Tech Stack ReactJS.md",
-    "Kanban/k - Project Tracker.md",
-    "Notes/Knowledge-base/How to/Markdown Basics.md",
-    "Notes/Attachments/qwik-logo.svg",
     "Notes/Knowledge-base/Vite Webpack.md",
+    "Notes/Knowledge-base/Svelte-The Future of Web Development.md",
+    "Notes/Knowledge-base/SolidJS-Deep dive.md",
+    "Notes/Knowledge-base/React Query Vs. React Redux.md",
+    "Notes/Knowledge-base/QwikJS-Speed and Simplicity.md",
+    "Notes/Knowledge-base/NextJS12vNextjs13.md",
+    "Notes/Knowledge-base/NextJs vs React.md",
+    "Notes/Knowledge-base/MAUI-Building Cross Platform Modern Applications with CSharp.md",
+    "Notes/Knowledge-base/Laravel- Modern Application Development with PHP.md",
+    "Notes/Knowledge-base/Kotlin- Java based Multiplatform for Modern Development.md",
+    "Notes/Knowledge-base/ESLint Prettier.md",
+    "Notes/Knowledge-base/Docker DockerCompose.md",
+    "Modern Development.canvas",
+    "MOC JS.canvas",
+    "Notes/Attachments/qwik-logo.svg",
     "Notes/Attachments/Pasted image 20230907143221.png",
     "Notes/Attachments/laravel-logo-vector.svg",
     "Notes/Attachments/Pasted Image 20230906142445_508.png",
@@ -229,22 +258,6 @@
     "Notes/Attachments/Pasted image 20230907140025.png",
     "Notes/Attachments/Pasted image 20230907140416.png",
     "Notes/Attachments/Pasted image 20230907134115.png",
-    "Notes/Knowledge-base/Svelte-The Future of Web Development.md",
-    "Notes/Knowledge-base/SolidJS-Deep dive.md",
-    "Notes/Knowledge-base/AstroJS- Exploring the Cosmos with AstroJS.md",
-    "Notes/Knowledge-base/QwikJS-Speed and Simplicity.md",
-    "Notes/Knowledge-base/React Query Vs. React Redux.md",
-    "Notes/Knowledge-base/Laravel- Modern Application Development with PHP.md",
-    "Notes/Knowledge-base/MAUI-Building Cross Platform Modern Applications with CSharp.md",
-    "Notes/Knowledge-base/Kotlin- Java based Multiplatform for Modern Development.md",
-    "Notes/Knowledge-base/ESLint Prettier.md",
-    "Notes/Knowledge-base/Docker DockerCompose.md",
-    "Notes/Knowledge-base/Blazor-Web Development with CSharp and .Net.md",
-    "Notes/Knowledge-base/How to/Using Various Plugins.md",
-    "Notes/Knowledge-base/How to/Obsidian.md",
-    "Excalidraw/NativeESM-based-dev-server.excalidraw.md",
-    "Excalidraw/ExcaliBrain Snapshot - Using Various Plugins.excalidraw.md",
-    "Excalidraw/Bundle-based-dev-server.excalidraw.md",
     "Notes/Attachments/qwik-logo 1.svg",
     "Notes/Knowledge-base/How to",
     "Kanban/KanbanCard",

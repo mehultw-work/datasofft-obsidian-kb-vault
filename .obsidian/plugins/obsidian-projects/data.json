@@ -8,6 +8,12 @@
             "True",
             "False"
           ]
+        },
+        "draft": {
+          "options": [
+            "True",
+            "False"
+          ]
         }
       },
       "defaultName": "",
