@@ -2,9 +2,10 @@
 Status: "#kanban-card"
 name: kcard - {{title}}
 tags: []
-date:
-complete-by:
-priority:
+date: 
+complete-by: 
+priority: 
+draft: "true"
 ---
 
 

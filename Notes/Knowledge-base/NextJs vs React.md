@@ -8,10 +8,11 @@ tags:
   - react
   - nextjs
 area: javascript Languages
-published: "false"
 cover: ReactVsNextjs.excalidraw
 type: article
 progress: Idea
+draft: "false"
+title: Why React or NextJS
 ---
 ![[ReactVsNextjs.excalidraw]]
 # ReactJS vs NextJS

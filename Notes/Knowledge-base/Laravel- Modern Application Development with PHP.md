@@ -7,10 +7,11 @@ tags:
   - "#laravel"
   - framework
 area: PHP Laravel Languages
-published: "false"
 cover: laravel-logo-vector.svg
 type: article
 progress: Idea
+draft: "false"
+title: Laravel- Modern Application Development with PHP
 ---
 ![[laravel-logo-vector.svg]]
 # Laravel- Modern Application Development with PHP

@@ -6,6 +6,8 @@ Other Items: tailwind-css shadcn-ui react react-query react-redux yarn docker as
 tags:
   - inventory
   - react
+draft: "true"
+title: Prospective Tech Stack ReactJS
 ---
 
 # Prospective Tech Stack ReactJS

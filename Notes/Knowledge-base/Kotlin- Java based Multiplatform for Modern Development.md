@@ -5,10 +5,11 @@ tags:
   - "#java"
   - language
 area: Java Kotlin Languages
-published: "false"
 cover: 
 type: article
 progress: Idea
+draft: "false"
+title: Kotlin- Java based Multiplatform for Modern Development
 ---
 ![Kotlin Multiplatform Image](https://insert-koin.io/img/homepage/kmm.png)
 # Kotlin- Java based Multiplatform for Modern Development

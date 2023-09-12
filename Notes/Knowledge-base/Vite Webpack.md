@@ -9,10 +9,11 @@ tags:
   - esm
   - bundler
 area: javascript
-published: "false"
 cover: https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png
 type: article
 progress: Idea
+draft: "false"
+title: "JS Build Tools: Vite vs Webpack"
 ---
 ![Vite Logo](https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png)
 

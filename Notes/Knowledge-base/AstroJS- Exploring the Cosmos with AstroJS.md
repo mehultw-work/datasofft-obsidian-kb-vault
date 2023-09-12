@@ -7,10 +7,11 @@ tags:
   - basics
   - "#framework"
 area: javascript Languages Astro
-published: "false"
 cover: https://cdn.cosmicjs.com/1cb229a0-ba0e-11ed-907c-292879eb8504-astro.png
 type: article
 progress: Idea
+draft: "false"
+title: AstroJS- Exploring the Cosmos with AstroJS
 ---
 ![AstroJSLogoSVG](https://cdn.cosmicjs.com/1cb229a0-ba0e-11ed-907c-292879eb8504-astro.png)
 

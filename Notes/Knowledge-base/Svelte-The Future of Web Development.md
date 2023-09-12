@@ -7,10 +7,11 @@ tags:
   - svelte
   - basics
 area: javascript Languages Svelte
-published: "false"
 cover: https://www.svgrepo.com/show/354414/svelte.svg
 type: article
 progress: Idea
+draft: "false"
+title: The era of Svelte-The Future of Web Development
 ---
 
 ![Svelte Logo SVG](https://www.svgrepo.com/show/354414/svelte.svg)

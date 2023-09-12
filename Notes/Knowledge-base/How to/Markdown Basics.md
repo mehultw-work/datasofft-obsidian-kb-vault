@@ -8,10 +8,11 @@ tags:
   - "#basics"
   - how-to
 area: Markdown
-published: "false"
+draft: "false"
 cover: https://cdn.worldvectorlogo.com/logos/markdown.svg
 type: article
 progress: Idea
+title: Markdown Basics
 ---
 
 ![Markdown Logo SVG](https://cdn.worldvectorlogo.com/logos/markdown.svg)

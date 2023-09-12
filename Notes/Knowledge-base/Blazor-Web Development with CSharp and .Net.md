@@ -7,10 +7,11 @@ tags:
   - language
   - basics
 area: C# Blazor Languages
-published: "false"
 cover: https://cdn.worldvectorlogo.com/logos/blazor.svg
 type: article
 progress: Idea
+draft: "false"
+title: Blazor-Web Development with CSharp and .Net
 ---
 ![Blazor SVG Logo](https://cdn.worldvectorlogo.com/logos/blazor.svg)
 # Blazor-Web Development with CSharp and .Net

@@ -8,10 +8,11 @@ tags:
   - basics
   - "#net"
 area: C# MAUI Multiplatform Languages
-published: "false"
 cover: https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg
 type: article
 progress: Idea
+draft: "false"
+title: MAUI-Building Cross Platform Modern Applications with CSharp
 ---
 ![MAUIMascotImage](https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg)
 # MAUI-Building Cross Platform Modern Applications with CSharp

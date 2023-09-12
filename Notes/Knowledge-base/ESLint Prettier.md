@@ -7,10 +7,11 @@ tags:
   - "#prettier"
   - linting
 area: javascript
-published: "false"
 cover: https://gitlab.com/idahogurl/vs-code-prettier-eslint/-/raw/5b0d100df2eef87a3cb8ec7d8e125f6c5e5e6a9b/icon.png
 type: article
 progress: Idea
+draft: "false"
+title: Enhance Code Quality and make your code Pretty with ESLint and Prettier
 ---
 ![ESLintPrettierIcon](https://gitlab.com/idahogurl/vs-code-prettier-eslint/-/raw/5b0d100df2eef87a3cb8ec7d8e125f6c5e5e6a9b/icon.png)
 

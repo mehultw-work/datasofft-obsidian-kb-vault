@@ -13,10 +13,11 @@ tags:
   - react
   - nextjs
 area: javascript Languages
-published: "false"
 cover: ReactVsNextjs.excalidraw
 type: article
 progress: Idea
+draft: "false"
+title: Understanding Changes from Next 12 to Next 13
 ---
 
 

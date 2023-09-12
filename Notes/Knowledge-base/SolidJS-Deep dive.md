@@ -6,10 +6,11 @@ tags:
   - framework
   - "#solid"
 area: javascript Languages SolidJS
-published: "false"
 cover: https://www.solidjs.com/img/logo/with-wordmark/logo.svg
 type: article
 progress: Idea
+draft: "false"
+title: A Deep Dive into SolidJS
 ---
 ![SolidJS-SVG-Logo](https://www.solidjs.com/img/logo/with-wordmark/logo.svg)
 

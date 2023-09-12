@@ -9,10 +9,11 @@ tags:
   - unix
   - deploy
 area: docker
-published: "false"
 cover: https://cdn.worldvectorlogo.com/logos/docker-3.svg
 type: article
 progress: Idea
+draft: "false"
+title: Docker DockerCompose - Containerize Everything
 ---
 ![# DockerImage|Docker Image](https://cdn.worldvectorlogo.com/logos/docker-3.svg)
 # Docker DockerCompose

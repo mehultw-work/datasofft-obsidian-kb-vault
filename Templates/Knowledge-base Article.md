@@ -3,10 +3,19 @@ Status: "#knowledge-base"
 tags:
   - "#knowledge-base"
 area: 
-published: "false"
+draft: "true"
 cover: 
 type: article
 progress: <% await tp.system.suggester(["Idea", "Working", "Finished"], ["Idea", "Working", "Finished"]) %>
+<%*
+let title = tp.file.title;
+   if (title.startsWith('Untitled')) {
+      title = await tp.system.prompt('title - ');
+      await tp.file.rename(`${title}`);
+   }
+-%>
+title: <%* tR += `${title}` %>
+
 ---
 # Image
 # {{title}}

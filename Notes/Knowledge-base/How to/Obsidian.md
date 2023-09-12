@@ -6,10 +6,11 @@ tags:
   - "#markdown"
   - "#how-to"
 area: obsidian
-published: "false"
+draft: "false"
 cover: https://www.dmuth.org/wp-content/uploads/2021/03/obsidian-logo.png
 type: article
 progress: Idea
+title: Obsidian
 ---
 ![Obsidian icon Logo](https://obsidian.md/images/2023-06-logo.png)
 ![Obsidian Full Logo](https://www.dmuth.org/wp-content/uploads/2021/03/obsidian-logo.png)

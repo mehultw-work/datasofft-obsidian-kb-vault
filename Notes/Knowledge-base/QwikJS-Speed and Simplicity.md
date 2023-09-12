@@ -6,10 +6,11 @@ tags:
   - framework
   - qwik
 area: javascript Languages Qwik
-published: "false"
 cover: qwik-logo.svg
 type: article
 progress: Idea
+draft: "false"
+title: QwikJS-Speed and Simplicity
 ---
 
 ![[qwik-logo.svg]]

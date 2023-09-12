@@ -13,10 +13,11 @@ tags:
   - project
   - kanban
 area: obsidian
-published: "false"
+draft: "false"
 cover: 
 type: article
 progress: Idea
+title: Using Various Plugins in Obsidian
 ---
 
 # Using Various Plugins
